@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="824" viewBox="0 0 420 824" role="img" aria-labelledby="title desc" xml:lang="en">
+<title id="title">From field data to battery dispatch</title><desc id="desc">Inverters, meters and battery readings feed the edge controller and digital twin. The EMS combines the twin with Israeli time-of-use prices to recommend charge and discharge targets.</desc>
+<defs>
+ <linearGradient id="surface" x2="1" y2="1" gradientUnits="objectBoundingBox"><stop stop-color="#102a39"/><stop offset=".62" stop-color="#10202e"/><stop offset="1" stop-color="#20203a"/></linearGradient>
+ <pattern id="grid" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".8" fill="#b4dbeb" opacity=".12"/></pattern>
+ </defs>
+<rect width="420" height="824" rx="18" fill="url(#surface)"/><rect width="420" height="824" rx="18" fill="url(#grid)"/>
+<svg x="18" y="18" width="23" height="23" viewBox="30 30 440 440"><defs>
+    <clipPath id="m-disc"><circle cx="250" cy="250" r="220"/></clipPath>
+    <clipPath id="m-top"><circle cx="250" cy="112" r="196"/></clipPath>
+    <clipPath id="m-left"><circle cx="130.5" cy="319" r="196"/></clipPath>
+  </defs>
+  <g clip-path="url(#m-disc)">
+    <rect width="500" height="500" fill="#FFFFFF"/>
+    <circle cx="250" cy="112" r="196" fill="#F0568C"/>
+    <circle cx="130.5" cy="319" r="196" fill="#63C5FA"/>
+    <circle cx="369.5" cy="319" r="196" fill="#F5B151"/>
+    <g clip-path="url(#m-top)"><circle cx="130.5" cy="319" r="196" fill="#8C6FF7"/></g>
+    <g clip-path="url(#m-top)"><circle cx="369.5" cy="319" r="196" fill="#F0684E"/></g>
+    <g clip-path="url(#m-left)"><circle cx="369.5" cy="319" r="196" fill="#67D4AC"/></g>
+    <g clip-path="url(#m-top)"><g clip-path="url(#m-left)"><circle cx="369.5" cy="319" r="196" fill="#FFFFFF"/></g></g>
+  </g></svg>
+<text x="51" y="36" direction="ltr" text-anchor="start" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#eaf1f7">EnergyBooster</text>
+<text x="18" y="80" direction="ltr" text-anchor="start" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#eaf1f7">From field data to battery dispatch</text>
+<polyline points="18,95 402,95" fill="none" stroke="#385062" stroke-width="2.4" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="263,145 342,145" fill="none" stroke="#92ded3" stroke-width="2.4" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="263,219 342,219" fill="none" stroke="#92ded3" stroke-width="2.4" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="263,293 342,293" fill="none" stroke="#92ded3" stroke-width="2.4" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="342,145 342,350" fill="none" stroke="#92ded3" stroke-width="2.4" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M346 342 L342 350 L338 342 Z" fill="#92ded3"/>
+<circle cx="342" cy="219" r="3.5" fill="#92ded3"/>
+<circle cx="342" cy="293" r="3.5" fill="#92ded3"/>
+<polyline points="113,435 113,490" fill="none" stroke="#62d7b3" stroke-width="2.4" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M117 482 L113 490 L109 482 Z" fill="#62d7b3"/>
+<polyline points="113,616 113,670" fill="none" stroke="#62d7b3" stroke-width="2.4" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M117 662 L113 670 L109 662 Z" fill="#62d7b3"/>
+<polyline points="305,616 305,670" fill="none" stroke="#ffca78" stroke-width="2.4" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="5 5"/>
+<path d="M309 662 L305 670 L301 662 Z" fill="#ffca78"/>
+<rect x="18" y="114" width="245" height="62" rx="12" fill="#163140" stroke="#345361"/>
+<g transform="translate(32 131) scale(0.94)" stroke="#92ded3" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" fill="none"><rect x="4" y="3" width="24" height="25" rx="4"/><path d="M8 14c2-7 5-7 8 0s6 7 8 0M9 23h5m5 0h3"/></g>
+<text x="74" y="140" direction="ltr" text-anchor="start" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#eaf1f7">PV inverters</text>
+<text x="74" y="163" direction="ltr" text-anchor="start" font-family="Arial, sans-serif" font-size="16" font-weight="400" fill="#b9cbd8">Solar generation</text>
+<rect x="18" y="188" width="245" height="62" rx="12" fill="#163140" stroke="#345361"/>
+<g transform="translate(32 205) scale(0.94)" stroke="#92ded3" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" fill="none"><rect x="5" y="2" width="22" height="28" rx="4"/><path d="M9 16a7 7 0 0 1 14 0m-7 0 4-5M10 23h12"/></g>
+<text x="74" y="214" direction="ltr" text-anchor="start" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#eaf1f7">Grid meters</text>
+<text x="74" y="237" direction="ltr" text-anchor="start" font-family="Arial, sans-serif" font-size="16" font-weight="400" fill="#b9cbd8">Imports and exports</text>
+<rect x="18" y="262" width="245" height="62" rx="12" fill="#163140" stroke="#345361"/>
+<g transform="translate(32 279) scale(0.94)" stroke="#92ded3" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" fill="none"><rect x="2" y="8" width="25" height="16" rx="3"/><path d="M30 13v6M7 12v8m5-8v8m5-8v8"/></g>
+<text x="74" y="288" direction="ltr" text-anchor="start" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#eaf1f7">Battery storage</text>
+<text x="74" y="311" direction="ltr" text-anchor="start" font-family="Arial, sans-serif" font-size="16" font-weight="400" fill="#b9cbd8">Charge level &amp; kW</text>
+<rect x="18" y="351" width="384" height="84" rx="12" fill="#16382f" stroke="#438b77"/>
+<g transform="translate(33 375) scale(1)" stroke="#62d7b3" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" fill="none"><rect x="3" y="6" width="26" height="20" rx="3"/><path d="M8 10v6m4-6v6m4-6v6m4-6v6m4-6v6M7 21h5m5 0h2m4 0h2"/></g>
+<text x="80" y="376" direction="ltr" text-anchor="start" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#eaf1f7">EnergyBooster Edge</text>
+<text x="80" y="399" direction="ltr" text-anchor="start" font-family="Arial, sans-serif" font-size="17" font-weight="400" fill="#b9cbd8">Reads and buffers on site</text>
+<text x="80" y="421" direction="ltr" text-anchor="start" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#62d7b3">Modbus · SunSpec · OpenEMS</text>
+<text x="128" y="467" direction="ltr" text-anchor="start" font-family="Arial, sans-serif" font-size="16" font-weight="400" fill="#62d7b3">Sync readings</text>
+<rect x="18" y="491" width="188" height="124" rx="12" fill="#173438" stroke="#438479"/>
+<rect x="219" y="491" width="183" height="124" rx="12" fill="#352f29" stroke="#93764d"/>
+<g transform="translate(32 502) scale(0.83)" stroke="#62d7b3" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" fill="none"><path d="m16 2 13 7-13 7L3 9Zm-13 7v14l13 7 13-7V9M16 16v14m-7-17 13-7"/></g>
+<g transform="translate(232 502) scale(0.83)" stroke="#ffca78" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" fill="none"><rect x="3" y="6" width="26" height="23" rx="3"/><path d="M9 3v6m14-6v6M3 13h26M8 23h5v-5h6v4h5"/></g>
+<text x="32" y="558" direction="ltr" text-anchor="start" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#eaf1f7">Digital twin</text>
+<text x="32" y="581" direction="ltr" text-anchor="start" font-family="Arial, sans-serif" font-size="16" font-weight="400" fill="#b9cbd8">Site readings</text>
+<text x="32" y="601" direction="ltr" text-anchor="start" font-family="Arial, sans-serif" font-size="16" font-weight="400" fill="#b9cbd8">+ forecasts</text>
+<text x="232" y="558" direction="ltr" text-anchor="start" font-family="Arial, sans-serif" font-size="19" font-weight="700" fill="#eaf1f7">Israeli TOU tariff</text>
+<text x="232" y="581" direction="ltr" text-anchor="start" font-family="Arial, sans-serif" font-size="16" font-weight="400" fill="#b9cbd8">Peak and off-peak</text>
+<text x="232" y="601" direction="ltr" text-anchor="start" font-family="Arial, sans-serif" font-size="16" font-weight="400" fill="#b9cbd8">prices</text>
+<rect x="18" y="671" width="384" height="130" rx="12" fill="#2a2842" stroke="#776d9f"/>
+<g transform="translate(32 688) scale(0.85)" stroke="#b9a9ff" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" fill="none"><path d="M3 3v26h26M7 23h5V13h6v5h5V6h6"/></g>
+<text x="72" y="711" direction="ltr" text-anchor="start" font-family="Arial, sans-serif" font-size="23" font-weight="700" fill="#eaf1f7">EMS dispatch plan</text>
+<text x="32" y="751" direction="ltr" text-anchor="start" font-family="Arial, sans-serif" font-size="19" font-weight="400" fill="#eaf1f7">When to charge or discharge</text>
+<text x="32" y="779" direction="ltr" text-anchor="start" font-family="Arial, sans-serif" font-size="17" font-weight="400" fill="#b9a9ff">Recommended power (kW)</text>
+</svg>

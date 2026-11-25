@@ -4,9 +4,16 @@
 
 # ניהול אנרגיה סולארית עם EnergyBooster
 
-**EnergyBooster היא מערכת לניהול אנרגיה (EMS) במתקני ייצור סולארי ואגירה בשוק הישראלי.** בקר מקומי קורא את הממירים, המונים והסוללות במתקן. תאום דיגיטלי של אותו מתקן מדמה את זרימת האנרגיה שעה אחר שעה לאורך 25 שנה. כך בעלי מתקנים, מתכננים וצוותי תפעול יכולים לבחור קיבולת אגירה לפני ההקמה, לתכנן מתי לטעון ולפרוק, ואחרי החיבור לרשת לבדוק את הביצועים מול המדידות.
+**מערכת לניהול אנרגיה (EMS) במתקני ייצור סולארי ואגירה בישראל.** מתכנני המתקן יכולים לבחון בתאום הדיגיטלי איך בחירת הסוללה תשפיע על 25 שנות פעילות. אחרי החיבור לרשת, צוות התפעול משתמש בנתוני הבקר ובתעריף החל על המתקן כדי לתכנן את הטעינה והפריקה.
 
 [סיור במערכת](https://energybooster.co.il/#tour) · [היכרות עם הבקר](https://energybooster.co.il/edge/) · [כניסה למערכת](https://energybooster.ai/signin/) · [יצירת קשר](https://energybooster.co.il/contact/)
+
+<a href="https://raw.githubusercontent.com/energybooster-co-il/.github/main/assets/energy-flow-he.svg">
+  <picture>
+    <source media="(max-width: 700px)" srcset="https://raw.githubusercontent.com/energybooster-co-il/.github/main/assets/energy-flow-he-mobile.svg">
+    <img src="https://raw.githubusercontent.com/energybooster-co-il/.github/main/assets/energy-flow-he.svg" width="980" alt="הממירים, המונים והסוללה מספקים מדידות לבקר המקומי. הבקר שומר אותן ומסנכרן אותן לתאום הדיגיטלי. מערכת ה־EMS משלבת את נתוני התאום עם מחירי התעו״ז וממליצה מתי לטעון או לפרוק ובאיזה הספק.">
+  </picture>
+</a>
 
 ## הבקר המקומי והחיבור לציוד
 
@@ -22,7 +29,9 @@
 
 מנוע ה־EMS מחשב לוח טעינה ופריקה והספק יעד בקילוואט. הוא משקלל את תחזית הייצור, הביקוש באתר ומחירי החשמל, בכפוף לקיבולת הזמינה, לגבולות מצב הטעינה, להספק הממיר ולמגבלות היבוא והיצוא בנקודת החיבור.
 
-**לדוגמה, בגג מסחרי עם מגבלת הזרמה**, ייצור הצהריים עשוי לעלות על מה שהעסק יכול לצרוך או להזרים לרשת. התאום משווה בין אגירת העודף לשימוש בעסק בשעות הפסגה לבין הזרמה בשעות המותרות לפי מסלול האסדרה. בהשוואה רואים כמה קוט״ש של ייצור אפשר לנצל, כמה חשמל ייחסך ברכישה מהרשת, ומה תהיה עלות השחיקה של הסוללה.
+> **גג מסחרי עם מגבלת הזרמה**
+>
+> במתקן כזה, ייצור הצהריים עשוי לעלות על מה שהעסק יכול לצרוך או להזרים לרשת. התאום משווה בין אגירת העודף לשימוש בעסק בשעות הפסגה לבין הזרמה בשעות המותרות לפי מסלול האסדרה. בהשוואה רואים כמה קוט״ש של ייצור אפשר לנצל, כמה חשמל ייחסך ברכישה מהרשת, ומה תהיה עלות השחיקה של הסוללה.
 
 מצב הייעוץ מפיק המלצות הספק למפעיל. מסלול השליטה המקומית בסוללה נבדק מול סוללה מדומה, והוא כבוי כברירת מחדל. הפעלה במתקן דורשת בדיקה מול דגם הציוד ואישור חשמלאי.
 
@@ -52,9 +61,16 @@
 
 # Solar energy management with EnergyBooster
 
-**EnergyBooster is an energy management system (EMS) for solar and battery storage projects in Israel.** An on-site controller reads the plant’s inverters, meters, and batteries. A digital twin of that same plant models energy flows hour by hour over 25 years. Owners, engineers, and operators can size storage before construction, plan when to charge and discharge, and compare the operating plant with its design forecast after grid connection.
+**An energy management system (EMS) for solar and battery storage projects in Israel.** Engineers use the digital twin to see how a battery sizing decision plays out across 25 years. Once the plant is connected, operators use controller readings and the site’s electricity tariff to plan when the battery should charge and discharge.
 
 [Product tour](https://energybooster.co.il/en/#tour) · [Explore the controller](https://energybooster.co.il/en/edge/) · [Sign in](https://energybooster.ai/signin/) · [Contact](https://energybooster.co.il/en/contact/)
+
+<a href="https://raw.githubusercontent.com/energybooster-co-il/.github/main/assets/energy-flow-en.svg">
+  <picture>
+    <source media="(max-width: 700px)" srcset="https://raw.githubusercontent.com/energybooster-co-il/.github/main/assets/energy-flow-en-mobile.svg">
+    <img src="https://raw.githubusercontent.com/energybooster-co-il/.github/main/assets/energy-flow-en.svg" width="980" alt="Inverters, meters and the battery report to the edge controller. It stores the readings and syncs them to the digital twin. The EMS combines the twin’s data with Israeli time-of-use prices to recommend when to charge or discharge and at what power.">
+  </picture>
+</a>
 
 ## The edge controller and field equipment
 
@@ -70,7 +86,9 @@ The inverter measures generation. The meter at the grid connection measures impo
 
 The EMS calculates a charge and discharge schedule with a target power in kilowatts. It weighs forecast generation, site demand, and electricity prices against available battery capacity, state-of-charge limits, inverter power, and the import and export limits at the grid connection.
 
-**Consider a commercial rooftop with an export limit.** At midday, the array may generate more than the business can use or export. The twin compares storing that surplus to supply the business during peak-price hours with exporting stored energy when the project’s tariff arrangement allows. The operator can compare how much solar energy each schedule captures, how much grid electricity it displaces, and the cost of battery wear.
+> **A commercial rooftop with an export limit**
+>
+> At midday, the array may generate more than the business can use or export. The twin compares storing that surplus to supply the business during peak-price hours with exporting stored energy when the project’s tariff arrangement allows. The operator can compare how much solar energy each schedule captures, how much grid electricity it displaces, and the cost of battery wear.
 
 In advisory mode, the EMS recommends power targets to the operator. The local battery control path has been tested with a simulated battery and is disabled by default. Field operation requires validation against the installed equipment and electrician approval.
 
