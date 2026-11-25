@@ -1,3 +1,5 @@
+[English](#solar-energy-management-with-energybooster) · [עברית](#ניהול-אנרגיה-סולארית-עם-energybooster)
+
 <div dir="rtl">
 
 # ניהול אנרגיה סולארית עם EnergyBooster
@@ -22,3 +24,28 @@
 [תכנון מתקן מסחרי](https://energybooster.co.il/commercial/) · [תכנון אגירה](https://energybooster.co.il/storage/) · [תעריפי חשמל בישראל](https://energybooster.co.il/tariff/) · [ניטור מתקנים](https://energybooster.co.il/monitoring/)
 
 </div>
+
+---
+
+[English](#solar-energy-management-with-energybooster) · [עברית](#ניהול-אנרגיה-סולארית-עם-energybooster)
+
+# Solar energy management with EnergyBooster
+
+How much electricity should a solar site generate today, and how much did it actually produce? **EnergyBooster** helps site owners, installers, and operations teams answer that question. Each site has a digital twin that models expected generation using its panel layout, equipment, and local weather. Teams use the model to plan the installation, then compare meter readings with the forecast to see which gaps need attention.
+
+[Take the product tour](https://energybooster.co.il/en/#tour) · [Sign in](https://energybooster.ai/signin/) · [Contact us](https://energybooster.co.il/en/contact/)
+
+[![EnergyBooster’s English overview screen for a demonstration solar site](https://energybooster.co.il/assets/shots/replica-v1-en-overview.webp)](https://energybooster.co.il/en/#tour)
+
+*Demo site with modeled production figures.*
+
+## Working with site data
+
+- **Plan a rooftop installation.** Start with an address, outline the usable roof area, and see how panel placement and shading affect expected generation throughout the year.
+- **Size a battery.** Compare battery capacities and charging schedules against the site's electricity use and tariff.
+- **Investigate production gaps.** Connect a supported monitoring account to compare measured output with the forecast and turn an alert into a service ticket. Teams managing several sites can see which one needs attention first.
+- **Report to owners and lenders.** Generate reports from the same model to show design assumptions, expected generation, and measured output after grid connection.
+
+## Guides
+
+[Commercial solar planning](https://energybooster.co.il/en/commercial/) · [Battery storage](https://energybooster.co.il/en/storage/) · [Electricity tariffs in Israel](https://energybooster.co.il/en/tariff/) · [Solar site monitoring](https://energybooster.co.il/en/monitoring/)
