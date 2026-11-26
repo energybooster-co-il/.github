@@ -1,4 +1,4 @@
-[English](#solar-energy-management-with-energybooster) · [עברית](#ניהול-אנרגיה-סולארית-עם-energybooster)
+[English](https://github.com/energybooster-co-il/.github/blob/main/profile/README.en.md) · [עברית](#ניהול-אנרגיה-סולארית-עם-energybooster)
 
 <div dir="rtl">
 
@@ -57,7 +57,7 @@
 
 ---
 
-[English](#solar-energy-management-with-energybooster) · [עברית](#ניהול-אנרגיה-סולארית-עם-energybooster)
+[English](https://github.com/energybooster-co-il/.github/blob/main/profile/README.en.md) · [עברית](#ניהול-אנרגיה-סולארית-עם-energybooster)
 
 # Solar energy management with EnergyBooster
 
