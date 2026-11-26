@@ -6,7 +6,7 @@
 
 **מערכת לניהול אנרגיה (EMS) במתקני ייצור סולארי ואגירה בישראל.** מתכנני המתקן יכולים לבחון בתאום הדיגיטלי איך בחירת הסוללה תשפיע על 25 שנות פעילות. אחרי החיבור לרשת, צוות התפעול משתמש בנתוני הבקר ובתעריף החל על המתקן כדי לתכנן את הטעינה והפריקה.
 
-[סיור במערכת](https://energybooster.co.il/#tour) · [היכרות עם הבקר](https://energybooster.co.il/edge/) · [כניסה למערכת](https://energybooster.ai/signin/) · [יצירת קשר](https://energybooster.co.il/contact/)
+[סיור במערכת](https://energybooster.co.il/he/#tour) · [היכרות עם הבקר](https://energybooster.co.il/he/edge/) · [כניסה למערכת](https://energybooster.ai/signin/) · [יצירת קשר](https://energybooster.co.il/he/contact/)
 
 <a href="https://raw.githubusercontent.com/energybooster-co-il/.github/main/assets/energy-flow-he.svg">
   <picture>
@@ -21,7 +21,7 @@
 
 מדידת הממיר מראה כמה המתקן מייצר. המונה בנקודת החיבור מראה כמה חשמל נמשך מהרשת או הוזרם אליה. נתוני הסוללה משלימים את התמונה עם מצב הטעינה והספק הטעינה או הפריקה. אם הקשר לאינטרנט נקטע, הבקר ממשיך לשמור את המדידות באתר ומשלים את הסנכרון עם התאום כשהקשר חוזר.
 
-<a href="https://energybooster.co.il/edge/"><img src="https://energybooster.co.il/assets/controller/inside/f00.webp" width="420" alt="דגם הנדסי של בקר EnergyBooster Edge המיועד להתקנה בארון החשמל"></a>
+<a href="https://energybooster.co.il/he/edge/"><img src="https://energybooster.co.il/assets/controller/inside/f00.webp" width="420" alt="דגם הנדסי של בקר EnergyBooster Edge המיועד להתקנה בארון החשמל"></a>
 
 *הבקר התעשייתי בשלב פיילוט. בעמוד הבקר מוצגים החיבורים הפיזיים ודגם תלת־ממדי של החומרה.*
 
@@ -39,7 +39,7 @@
 
 התאום מתמחר בנפרד חשמל שנרכש מהרשת, חשמל שנצרך ישירות מהמתקן וחשמל שנמכר לרשת. עלות הרכישה נקבעת לפי תעריף עומס וזמן (תעו״ז) שנבחר, כולל עונה, יום בשבוע, חגים וחלונות פסגה ושפל. ההכנסה מהזרמה מחושבת לפי מסלול האסדרה של הפרויקט.
 
-אפשר לבחון כיצד מדרגות הספק, מועד הבקשה או הסנכרון, פרמיה אורבנית ותעריף משלים לאגירה משפיעים על התזרים במסלולים הרלוונטיים. לצד התרחיש מופיעים מקור התעריף והנחות החישוב. לתקופה שאחרי סיום האסדרה אפשר להגדיר הנחת מחיר נפרדת. [מדריך התעריפים והאסדרה](https://energybooster.co.il/tariff/)
+אפשר לבחון כיצד מדרגות הספק, מועד הבקשה או הסנכרון, פרמיה אורבנית ותעריף משלים לאגירה משפיעים על התזרים במסלולים הרלוונטיים. לצד התרחיש מופיעים מקור התעריף והנחות החישוב. לתקופה שאחרי סיום האסדרה אפשר להגדיר הנחת מחיר נפרדת. [מדריך התעריפים והאסדרה](https://energybooster.co.il/he/tariff/)
 
 ## תאום דיגיטלי לאורך 25 שנות פעילות
 
@@ -47,11 +47,11 @@
 
 כך אפשר להשוות, למשל, שתי קיבולות אגירה ולראות באיזו שנה תידרש החלפת סוללה בכל תרחיש ומה המשמעות לתזרים המצטבר. כשהמתקן פעיל, המדידות מהבקר מאפשרות להשוות בין הביצועים החזויים לביצועים בפועל ולהחליט אילו פערים דורשים טיפול.
 
-[![מסך האגירה בתאום הדיגיטלי של מתקן הדגמה](https://energybooster.co.il/assets/shots/replica-v1-he-storage.webp)](https://energybooster.co.il/storage/)
+[![מסך האגירה בתאום הדיגיטלי של מתקן הדגמה](https://energybooster.co.il/assets/shots/replica-v1-he-storage.webp)](https://energybooster.co.il/he/storage/)
 
 *מסך האגירה של מתקן הדגמה. הערכים המוצגים חושבו במודל.*
 
-[תכנון מתקן מסחרי](https://energybooster.co.il/commercial/) · [תכנון אגירה](https://energybooster.co.il/storage/) · [ניטור מתקנים](https://energybooster.co.il/monitoring/)
+[תכנון מתקן מסחרי](https://energybooster.co.il/he/commercial/) · [תכנון אגירה](https://energybooster.co.il/he/storage/) · [ניטור מתקנים](https://energybooster.co.il/he/monitoring/)
 
 </div>
 
